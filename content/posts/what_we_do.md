@@ -1,6 +1,6 @@
 ---
 title: What we do
-date: 2021-10-06
+date: 2022-08-20
 description: "Eli Johnson and J. Hathaway started the data think journey in 2022. We want to highlight our company's background to help orient you to the work and skills available from DataThink. We hope this will help you understand our skills."
 ---
 
