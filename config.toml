@@ -1,7 +1,7 @@
-baseURL = "https://datathink.github.io/ds"
+baseURL = "/"
 themesDir = "themes"
 languageCode = "en-us"
-title = "Data Science Programming & Visualization"
+title = "DataThink project thoughts"
 theme = "hugo-winston-theme"
 
 pygmentsCodeFences = true
