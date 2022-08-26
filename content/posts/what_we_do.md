@@ -37,7 +37,7 @@ We are comfortable with data wrangling and analysis that leverages spatial and t
 > Languages evolve much faster than the constructs
 
 - __R:__ We have partnered with R since it was birthed from S. We are big fans of the [Tidyverse](https://www.tidyverse.org/) and [Shiny](https://shiny.rstudio.com/).
-- __Python:__ Python has it all. We focus on the data science space. Whether you want [machine learning](https://scikit-learn.org/stable/), [data hanlding](https://pandas.pydata.org/), or others needs like [pyspark](https://spark.apache.org/docs/latest/api/python/), [streamlit](https://streamlit.io/), or data visualizations. 
+- __Python:__ Python has it all. We focus on the data science space. Whether you want [machine learning](https://scikit-learn.org/stable/), [data hanlding](https://pandas.pydata.org/), or other needs like [pyspark](https://spark.apache.org/docs/latest/api/python/), [streamlit](https://streamlit.io/), or data visualizations. 
 - __SQL:__ Almost every data project requires SQL to get it going and keep it working.
 
 ### Tools
